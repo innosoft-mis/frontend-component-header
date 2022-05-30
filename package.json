@@ -1,6 +1,6 @@
 {
   "name": "frontend-component-header-th",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "The standard header for Open edX",
   "main": "dist/index.js",
   "publishConfig": {
