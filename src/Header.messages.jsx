@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   'header.links.courses': {
     id: 'header.links.courses',
-    defaultMessage: 'หลักสูตร',
+    defaultMessage: 'การรับรองสมรรถนะ',
     description: 'Link to the learner course dashboard',
   },
   'header.links.programs': {
@@ -13,7 +13,7 @@ const messages = defineMessages({
   },
   'header.links.content.search': {
     id: 'header.links.content.search',
-    defaultMessage: 'หลักสูตรทั้งหมด',
+    defaultMessage: 'การรับรองสมรรถนะทั้งหมด',
     description: 'Link to the content search page',
   },
   'header.links.schools': {

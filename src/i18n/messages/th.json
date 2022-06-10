@@ -1,9 +1,9 @@
 {
   "general.register.sentenceCase": "ลงทะเบียน",
   "general.signIn.sentenceCase": "เข้าสู่ระบบ",
-  "header.links.courses": "หลักสูตร",
+  "header.links.courses": "การรับรองสมรรถนะ",
   "header.links.programs": "Programs",
-  "header.links.content.search": "หลักสูตรทั้งหมด",
+  "header.links.content.search": "การรับรองสมรรถนะทั้งหมด",
   "header.links.schools": "Schools & Partners",
   "header.user.menu.dashboard": "แดชบอร์ด",
   "header.user.menu.profile": "โปรไฟล์",
